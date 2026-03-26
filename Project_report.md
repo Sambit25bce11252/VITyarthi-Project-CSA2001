@@ -1,9 +1,12 @@
 <h1>AI-Based Maze Solver</h1>
 
 <h2><u>VITyarthi Project - CSA2001</u></h2>
+
 ---
+
 <h5>Author:</h5> Sambit Kumar Garanayak  <br>
 <h5>Course:</h5> CSA2001 - Fundamentals in AI & ML
+
 ---
 <h2> Abstract </h2>
 
