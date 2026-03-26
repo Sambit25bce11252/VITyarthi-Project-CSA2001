@@ -79,17 +79,17 @@ Output Generation: The program displays:
 ---
 <h2> 7. Input/Output Example </h2>
 
-Input Maze:
+Input Maze: <br>
 S . . X . <br>
 X X . X . <br>
 . . . . G <br>
 
 Output Example:
 
-Path Found: Yes
-Path Length: 7 steps
-Nodes Explored: BFS → 12, DFS → 9, A* → 8
-Time Taken: BFS → 0.003 sec, DFS → 0.002 sec, A* → 0.002 sec
+Path Found: Yes <br>
+Path Length: 7 steps  <br>
+Nodes Explored: BFS → 12,  DFS → 9, A* → 8   <br>
+Time Taken: BFS → 0.003 sec, DFS → 0.002 sec, A* → 0.002 sec  <br>
 
 Values may vary depending on the maze size and configuration.
 
