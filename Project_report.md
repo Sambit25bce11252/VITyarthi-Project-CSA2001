@@ -2,8 +2,8 @@
 
 <h2><u>VITyarthi Project - CSA2001</u></h2>
 ---
-<u>Author</u>: Sambit Kumar Garanayak  <br>
-<u>Course</u>: CSA2001 - Fundamentals in AI & ML
+<h5>Author:</h5> Sambit Kumar Garanayak  <br>
+<h5>Course:</h5> CSA2001 - Fundamentals in AI & ML
 ---
 <h2> Abstract </h2>
 
