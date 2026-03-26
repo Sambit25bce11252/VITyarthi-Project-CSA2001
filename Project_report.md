@@ -2,8 +2,8 @@
 
 <h2><u>VITyarthi Project - CSA2001</u></h2>
 ---
-Author: Sambit Kumar Garanayak
-Course: CSA2001 - Fundamentals in AI & ML
+<u>Author</u>: Sambit Kumar Garanayak  <br>
+<u>Course</u>: CSA2001 - Fundamentals in AI & ML
 ---
 <h2> Abstract </h2>
 
@@ -109,7 +109,6 @@ Sample Performance Table:
 | A*        | 7           | 8              | 0.002            |
 
 
- Graphs, screenshots, or diagrams can be added here to visualize results.
 
 ---
 <h2> 9. Real-World Applications </h2>
