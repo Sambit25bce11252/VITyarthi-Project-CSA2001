@@ -3,9 +3,6 @@ AI-based Maze Solver built using BFS, DFS, and A* search algorithms with CLI int
 
 # AI Maze Solver
 
-## 👤 Author
-Name: Sambit Garnayak  
-Course: CSA2001 - Fundamentals of AI & ML  
 
 ---
 
@@ -145,3 +142,6 @@ This project demonstrates how different AI algorithms solve the same problem in 
 - Add visualization of path  
 
 ---
+## 👤 Author
+Name: Sambit Kumar Garanayak  
+Course: CSA2001 - Fundamentals of AI & ML  
