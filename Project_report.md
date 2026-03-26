@@ -80,9 +80,9 @@ Output Generation: The program displays:
 <h2> 7. Input/Output Example </h2>
 
 Input Maze:
-S . . X .
-X X . X .
-. . . . G
+S . . X . <br>
+X X . X . <br>
+. . . . G <br>
 
 Output Example:
 
@@ -102,10 +102,12 @@ A:* Most efficient, balancing speed and optimal path length
 
 Sample Performance Table:
 
-Algorithm	 Path Length  	Nodes Explored	Time Taken (sec)
-BFS	         7	              12	           0.003
-DFS        	 9	              9	             0.002
-A*	         7	              8              0.002
+| Algorithm | Path Length | Nodes Explored | Time Taken (sec) |
+| --------- | ----------- | -------------- | ---------------- |
+| BFS       | 7           | 12             | 0.003            |
+| DFS       | 9           | 9              | 0.002            |
+| A*        | 7           | 8              | 0.002            |
+
 
  Graphs, screenshots, or diagrams can be added here to visualize results.
 
