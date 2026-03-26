@@ -82,6 +82,7 @@ S . . X .
 X X . X .  
 . . . . G  
 
+Meaning:
 
 S → Start  
 G → Goal  
