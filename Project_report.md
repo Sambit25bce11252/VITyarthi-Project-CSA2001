@@ -48,10 +48,10 @@ Widely applied in real-world pathfinding, robotics, and AI in games
 ---
 # 5. Project Structure
 
--main.py → Main program with CLI interface
--maze.py → Maze generation and handling
--algorithms/bfs.py → BFS implementation
--algorithms/dfs.py → DFS implementation
+-main.py → Main program with CLI interface <br>
+-maze.py → Maze generation and handling <br>
+-algorithms/bfs.py → BFS implementation <br>
+-algorithms/dfs.py → DFS implementation <br>
 -algorithms/astar.py → A* implementation
 ---
 # 6. Methodology
