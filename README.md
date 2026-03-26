@@ -36,7 +36,7 @@ This project demonstrates how AI techniques can be used to solve real-world path
 - Faster in some cases
 
 ### 3. A* Algorithm
-- Uses heuristic (Manhattan Distance)
+- Uses heuristic 
 - Combines actual cost + estimated cost
 - More efficient and optimal
 - Used in real-world applications
@@ -52,7 +52,7 @@ This project demonstrates how AI techniques can be used to solve real-world path
 
 ## 📂 Project Structure
 
-maze-ai-solver/
+AI-Maze-solver/
 
 main.py → Main program (CLI interface)  
 maze.py → Maze creation and handling  
@@ -76,16 +76,18 @@ python main.py
 
 Maze is represented as a grid:
 
-S → Start  
-G → Goal  
-. → Free path  
-X → Wall  
-
 Example:
 
 S . . X .  
 X X . X .  
 . . . . G  
+
+
+S → Start  
+G → Goal  
+. → Free path  
+X → Wall  
+
 
 ---
 
