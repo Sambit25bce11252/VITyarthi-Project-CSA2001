@@ -144,4 +144,4 @@ This project demonstrates how different AI algorithms solve the same problem in 
 ---
 ## 👤 Author
 Name: Sambit Kumar Garanayak  
-Course: CSA2001 - Fundamentals of AI & ML  
+Course: CSA2001 - Fundamentals in AI & ML  
